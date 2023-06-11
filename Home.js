@@ -55,8 +55,8 @@ const Home=({navigation})=>{
 
     setTimeout(() => {
         navigation.navigate('Details')
-        }, 3000);
-        
+        }, 1000);
+
     return(
         // <View style={{flex:1}}>
         //     <Text>
