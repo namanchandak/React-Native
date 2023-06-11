@@ -69,7 +69,7 @@ const Details = ({navigation}) => {
 
     setTimeout(() => {
         navigation.navigate('Three')
-        }, 20000);
+        }, 5000);
 
 
   const [isAnimationStarted, setIsAnimationStarted] = useState(false);
